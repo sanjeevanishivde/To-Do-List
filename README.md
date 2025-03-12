@@ -2,6 +2,8 @@
 
 A simple and interactive **To-Do List App** built with **HTML, CSS, and JavaScript** that allows users to add, complete, and delete tasks. Completed tasks are stored separately, and the app preserves the task list using **local storage**.
 
+---
+
 ## 🎯 Features
 ✅ Add new tasks  
 ✅ Mark tasks as completed  
