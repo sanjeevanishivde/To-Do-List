@@ -14,7 +14,7 @@ A simple and interactive **To-Do List App** built with **HTML, CSS, and JavaScri
 ---
 
 ## 🚀 Demo  
-You can check out the live version of the app **[here](#)** (Replace `#` with the live link if hosted).
+You can check out the live version of the app **[here](https://sanjeevanishivde.github.io/To-Do-List/)** (Replace `#` with the live link if hosted).
 
 ---
 
